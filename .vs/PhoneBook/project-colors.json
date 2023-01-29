@@ -1,0 +1,11 @@
+{
+  "Version": 1,
+  "ProjectMap": {
+    "36562a27-1c26-4da8-9969-dcfc850afc2e": {
+      "ProjectGuid": "36562a27-1c26-4da8-9969-dcfc850afc2e",
+      "DisplayName": "PhoneBook",
+      "ColorIndex": 0
+    }
+  },
+  "NextColorIndex": 1
+}

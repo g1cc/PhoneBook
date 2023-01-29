@@ -1,0 +1,36 @@
+C:\Users\requi\source\repos\PhoneBook\PhoneBook\bin\Debug\PhoneBook.exe
+C:\Users\requi\source\repos\PhoneBook\PhoneBook\bin\Debug\PhoneBook.pdb
+C:\Users\requi\source\repos\PhoneBook\PhoneBook\obj\Debug\PhoneBook.csproj.AssemblyReference.cache
+C:\Users\requi\source\repos\PhoneBook\PhoneBook\obj\Debug\PhoneBook.Properties.Resources.resources
+C:\Users\requi\source\repos\PhoneBook\PhoneBook\obj\Debug\PhoneBook.csproj.GenerateResource.cache
+C:\Users\requi\source\repos\PhoneBook\PhoneBook\obj\Debug\PhoneBook.csproj.CoreCompileInputs.cache
+C:\Users\requi\source\repos\PhoneBook\PhoneBook\obj\Debug\PhoneBook.exe
+C:\Users\requi\source\repos\PhoneBook\PhoneBook\obj\Debug\PhoneBook.pdb
+C:\Users\requi\source\repos\PhoneBook\PhoneBook\obj\Debug\PhoneBook.Form1.resources
+C:\Users\requi\source\repos\PhoneBook\PhoneBook\bin\Debug\PhoneBook.exe.manifest
+C:\Users\requi\source\repos\PhoneBook\PhoneBook\bin\Debug\PhoneBook.application
+C:\Users\requi\source\repos\PhoneBook\PhoneBook\obj\Debug\PhoneBook.exe.manifest
+C:\Users\requi\source\repos\PhoneBook\PhoneBook\obj\Debug\PhoneBook.application
+C:\Users\requi\source\repos\PhoneBook\PhoneBook\bin\Debug\PhoneBook.exe.config
+C:\Users\requi\source\repos\PhoneBook\PhoneBook\bin\Debug\System.Data.SQLite.dll
+C:\Users\requi\source\repos\PhoneBook\PhoneBook\bin\Debug\System.Data.SQLite.Linq.dll
+C:\Users\requi\source\repos\PhoneBook\PhoneBook\bin\Debug\System.Data.SQLite.xml
+C:\Users\requi\source\repos\PhoneBook\PhoneBook\obj\Debug\PhoneBook.csproj.CopyComplete
+C:\Users\requi\OneDrive\Рабочий стол\PhoneBook\PhoneBook\bin\Debug\PhoneBook.exe.config
+C:\Users\requi\OneDrive\Рабочий стол\PhoneBook\PhoneBook\bin\Debug\PhoneBook.exe.manifest
+C:\Users\requi\OneDrive\Рабочий стол\PhoneBook\PhoneBook\bin\Debug\PhoneBook.application
+C:\Users\requi\OneDrive\Рабочий стол\PhoneBook\PhoneBook\bin\Debug\PhoneBook.exe
+C:\Users\requi\OneDrive\Рабочий стол\PhoneBook\PhoneBook\bin\Debug\PhoneBook.pdb
+C:\Users\requi\OneDrive\Рабочий стол\PhoneBook\PhoneBook\bin\Debug\System.Data.SQLite.dll
+C:\Users\requi\OneDrive\Рабочий стол\PhoneBook\PhoneBook\bin\Debug\System.Data.SQLite.Linq.dll
+C:\Users\requi\OneDrive\Рабочий стол\PhoneBook\PhoneBook\bin\Debug\System.Data.SQLite.xml
+C:\Users\requi\OneDrive\Рабочий стол\PhoneBook\PhoneBook\obj\Debug\PhoneBook.csproj.AssemblyReference.cache
+C:\Users\requi\OneDrive\Рабочий стол\PhoneBook\PhoneBook\obj\Debug\PhoneBook.Form1.resources
+C:\Users\requi\OneDrive\Рабочий стол\PhoneBook\PhoneBook\obj\Debug\PhoneBook.Properties.Resources.resources
+C:\Users\requi\OneDrive\Рабочий стол\PhoneBook\PhoneBook\obj\Debug\PhoneBook.csproj.GenerateResource.cache
+C:\Users\requi\OneDrive\Рабочий стол\PhoneBook\PhoneBook\obj\Debug\PhoneBook.csproj.CoreCompileInputs.cache
+C:\Users\requi\OneDrive\Рабочий стол\PhoneBook\PhoneBook\obj\Debug\PhoneBook.exe.manifest
+C:\Users\requi\OneDrive\Рабочий стол\PhoneBook\PhoneBook\obj\Debug\PhoneBook.application
+C:\Users\requi\OneDrive\Рабочий стол\PhoneBook\PhoneBook\obj\Debug\PhoneBook.csproj.CopyComplete
+C:\Users\requi\OneDrive\Рабочий стол\PhoneBook\PhoneBook\obj\Debug\PhoneBook.exe
+C:\Users\requi\OneDrive\Рабочий стол\PhoneBook\PhoneBook\obj\Debug\PhoneBook.pdb
